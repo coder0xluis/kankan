@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 <template>
-    $END$
+    <div>
+
+    </div>
 </template>
 
 <script>

@@ -41,7 +41,7 @@
 
 <script>
     export default {
-        name: "List"
+        name: "BookList"
     }
 </script>
 

@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <template>
-    
+    <div></div>
 </template>
 
 <script>
